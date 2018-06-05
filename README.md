@@ -1,0 +1,2 @@
+This repo is based on the idea that to be good at language or framework, you need to write as many small programs in it as possible.
+I go through the core modules provided by Node.JS and write little programs to showcase the power of each module.
